@@ -1,6 +1,7 @@
 # CS_898CDFA21_project
 
-# Timing side channel attack on ARM TrustZone (NXP LPCXpresso 55S69 Board with FreeRTOS) 
+# Timing side channel attack on ARM TrustZone (NXP LPCXpresso 55S69 Board (Cortex-M) with FreeRTOS) 
+# infering the time point of the switching between non-secure and secure worlds 
 
 This project includes two folders *_ns and *_s which refer to secure and non-secure code sectiins 
 
