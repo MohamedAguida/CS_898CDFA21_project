@@ -5,7 +5,9 @@
 
 This project includes two folders *_ns and *_s which refer to secure and non-secure code sectiins 
 
-to Run this project you need to upload it in MCUXpresso 
+to Run this project you need to upload it and run it using MCUXpresso IDE
+
+Use the blinky example from FreeRTOS examples in the MCUXpresso IDE and upload the files in their related paths 
 
 **Note** : you must build and debug the *_s folder first and then the *_ns folder 
 
